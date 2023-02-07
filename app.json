@@ -1,5 +1,5 @@
 {
-  "name": "fastdoctor-nestjs",
+  "name": "fastdoctor-debt-manager",
   "stack": "container",
   "formation": {
     "web": {
